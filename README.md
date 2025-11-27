@@ -41,21 +41,21 @@ El proyecto está diseñado como ejemplo de buenas prácticas en **desarrollo fu
 
 ## Estructura del Proyecto
 
-f1-dashboard/
-├─ backend/
-│  ├─ controllers/
-│  ├─ routes/
-│  ├─ models/
-│  ├─ middleware/
-│  └─ server.js
-├─ frontend/
-│  ├─ src/
-│  │  ├─ components/
-│  │  ├─ pages/
-│  │  ├─ services/
-│  │  └─ App.jsx
-├─ README.md
-└─ package.json
+dashboardf1/
+  backend/
+    controllers/
+    routes/
+    models/
+    middleware/
+    server.js
+  frontend/
+    src/
+      components/
+      pages/
+      services/
+      App.jsx
+  README.md
+  package.json
 
 ---
 
